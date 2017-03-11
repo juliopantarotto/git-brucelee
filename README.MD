@@ -3,3 +3,6 @@
 - Cena 1: TangLung aparece no aeroporto
 
 - Cena 2: Restaurante
+
+- Cena 3: Preparação para luta
+
