@@ -6,3 +6,6 @@
 
 - Cena 3: Preparação para luta
 
+- Cena 4: Ganha a luta
+
+
